@@ -1,7 +1,7 @@
 ---
 title: "NiFi Post"
 date: 2020-05-02T15:21:59+09:00
-draft: true
+draft: false
 ---
 # NiFiで毎秒10億のイベントを処理する
 
